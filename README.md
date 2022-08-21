@@ -1,2 +1,2 @@
-# Desafio-Props-VnW
+# PropsStudyOne
 Created with CodeSandbox
